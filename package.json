@@ -42,7 +42,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/ify-loader.git"
+    "url": "git+https://github.com/browserify/ify-loader.git"
   },
   "homepage": "https://github.com/hughsk/ify-loader",
   "bugs": {
